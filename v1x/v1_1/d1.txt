@@ -1,0 +1,1 @@
+OBJS2-111 [Goods Shipment] Gagal Create From Sales Invoice tanpa Sales Order
